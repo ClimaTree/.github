@@ -1,12 +1,15 @@
-Add project info here
+## Introduction 
+The ClimaTree team is our Master in Evionmental Data Science capstone project at the Bren School of Environmental Science and Managment.
 
-<!--
+The team consists of [Rosemary Juarez](https://github.com/rosemaryjuarez) , [Briana Barajas](https://github.com/briana-barajas), [Fletcher McConnell](https://github.com/fletcher-m) and [Vanessa Salgado](https://github.com/Vanessa-Salgado). 
 
-**Here are some ideas to get you started:**
+## Project 
+The objective of this project is to generate accurate vulnerability risk maps for over 126 tree species that capture exposure and sensitivity to illustrate adaptive and spatial variation in response to climate change and predict future tree growth. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We aim to
+* Create more accurate risk maps for over 126 vulnerable species of trees
+* Predict future tree growth using machine learning
+* Develop a shiny app that combines this information on an easily accessible and user-friendly platform
+
+
+
