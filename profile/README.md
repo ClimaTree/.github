@@ -10,7 +10,6 @@ We aim to
 * Create more accurate risk maps for over 126 vulnerable species of trees :earth_americas:
 * Predict future tree growth using machine learning :chart_with_upwards_trend:
 * Develop a shiny app that combines this information on an easily accessible and user-friendly platform :computer:
-*
 
 
 <!---
