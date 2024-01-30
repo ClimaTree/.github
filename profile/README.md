@@ -1,5 +1,5 @@
 ## Introduction :deciduous_tree:
-The ClimaTree team is our Master in Evionmental Data Science capstone project at the Bren School of Environmental Science and Managment.
+The ClimaTree team is our Master in Environmental Data Science capstone project at the Bren School of Environmental Science and Management.
 
 The team consists of [Rosemary Juarez](https://github.com/rosemaryjuarez) , [Briana Barajas](https://github.com/briana-barajas), [Fletcher McConnell](https://github.com/fletcher-m) and [Vanessa Salgado](https://github.com/Vanessa-Salgado). 
 
