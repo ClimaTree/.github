@@ -18,35 +18,19 @@ We aim to
 * Develop a shiny app that summarizes our findings on an easily accessible and user-friendly platform :computer:
 
 ## Repository Structure
-
-├── 1-process-raw-data
+```
+Climatree
+|
+├── climatree-mapping-repo
 │   ├── 3b. Species niche.R
 │   ├── 4a. First stage.R
 │   ├── 5a. Second stage.R
 │   ├── 6. Prediction.R
 │   └── 7. Figure 2.R
-├── 2-prelim-maps
-│   └── fm-prelim-maps
-│       └── site_summary.csv
-├── 2-top-20-spp
-│   └── 2-spp-list.R
-├── 3-prelim-map
-│   └── 3-second-stage-pcgl.R
-├── climatree-mapping-repo.Rproj
-├── README.md
-└── scratch
-    ├── bb_scratch
-    │   └── bb-data-exploration.Rmd
-    ├── fm_scratch
-    │   ├── fm-data-exploration.Rmd
-    │   └── pisy-prelim-maps.Rmd
-    └── rj_scratch
-        ├── rj-data-exploration.Rmd
-        └── rj-prelim-maps
-            ├── pcab-prelim-maps.Rmd
-            ├── world.jpg
-            └── world_range.jpg
-
+├── climatree-shiny-dev
+    └── fm-prelim-maps
+        └── site_summary.csv
+```
 
 
 
