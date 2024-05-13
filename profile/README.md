@@ -5,6 +5,9 @@ Faculty Advisor and Client: [Dr. Joan Dudney](https://joandudney.com)
 
 The team consists of [Rosemary Juarez](https://github.com/rosemaryjuarez), [Briana Barajas](https://github.com/briana-barajas), [Fletcher McConnell](https://github.com/fletcher-m) and [Vanessa Salgado](https://github.com/Vanessa-Salgado). 
 
+Primary Contributor / Client: Dr. Joan Dudney, 
+Other Contributors: Dr. Robert Heilmeyer, Dr. Frances C. Moore
+
 ## Project Summary :evergreen_tree:
 Forests cover approximately 30% of Earth’s land surface, absorb more carbon than all other terrestrial ecosystems, and provide trillions of dollars’ worth of ecosystem services. However, these crucial ecosystems are becoming increasingly vulnerable to a changing climate. A widespread assumption underlying the mapping of forest vulnerability has been that forests are most sensitive to drought and climate change in hot, dry regions. New data contradicts this assumption and suggests that forests in regions of a mild climate may be the most vulnerable to climate change. This could mean that current global vegetation models greatly underestimate the effects of climate change on forests. Through this project, the capstone team will use tree-ring and climate data to create more accurate risk maps for over 126 species of trees, predict future tree growth, and develop a shiny app that combines this information on an easily accessible and user-friendly platform. These deliverables will help public and private stakeholders identify species and regions of highest risk so that they can develop the most effective conservation and management strategies. 
 
