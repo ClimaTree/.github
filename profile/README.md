@@ -23,7 +23,7 @@ We aim to
 
 ## Repository Structure
 ```
-your-organization/
+ClimaTree
 ├── climatree_mapping_repository
 │   ├── 1_climate_niche.R
 │   ├── 2_plot_level_regression.R
