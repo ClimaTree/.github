@@ -23,22 +23,19 @@ Our initial goals:
 
 ## Organization Structure
 ```
-ClimaTree
-├── climatree_mapping_repository
+your-organization/
+├── climatree-mapping-repo
+│   ├── main.R
 │   ├── 1_climate_niche.R
-│   ├── 2_plot_level_regression.R
+│   ├── 2_plot_level_regressions.R
 │   ├── 3_run_regressions.R
 │   ├── 4_sens_predictions.R
 │   ├── 5_mapping.R
-│   ├── main.R
-│   └── prep_scripts
-│       ├── 2_spp_list.R
-│       └── create_top_species.R
+│   └── create_top_species.R
 └── climatree-shiny-dev
-    └── shinydashboard
-        ├── global.R
-        ├── server.R
-        └── ui.R
+   ├── global.R
+   ├── server.R
+   └── ui.R
 ```
 
 
