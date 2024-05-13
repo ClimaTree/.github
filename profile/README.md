@@ -10,30 +10,38 @@ Primary Contributor / Client: Dr. Joan Dudney
 Other Contributors: Dr. Robert Heilmeyer, Dr. Frances C. Moore
 
 ## Project Summary :evergreen_tree:
-Forests cover approximately 30% of Earth’s land surface, absorb more carbon than all other terrestrial ecosystems, and provide trillions of dollars’ worth of ecosystem services. However, these crucial ecosystems are becoming increasingly vulnerable to a changing climate. A widespread assumption underlying the mapping of forest vulnerability has been that forests are most sensitive to drought and climate change in hot, dry regions. New data contradicts this assumption and suggests that forests in regions of a mild climate may be the most vulnerable to climate change. This could mean that current global vegetation models greatly underestimate the effects of climate change on forests. Through this project, the capstone team will use tree-ring and climate data to create more accurate risk maps for over 126 species of trees, predict future tree growth, and develop a shiny app that combines this information on an easily accessible and user-friendly platform. These deliverables will help public and private stakeholders identify species and regions of highest risk so that they can develop the most effective conservation and management strategies. 
+Forests cover approximately 30% of Earth’s land surface, absorb more carbon than all other terrestrial ecosystems, and provide trillions of dollars’ worth of ecosystem services. However, these crucial ecosystems are becoming increasingly vulnerable to a changing climate. A widespread assumption underlying the mapping of forest vulnerability has been that forests are most sensitive to drought and climate change in hot, dry regions. New data contradicts this assumption and suggests that forests in regions of a mild climate may be the most vulnerable to climate change. This could mean that current global vegetation models greatly underestimate the effects of climate change on forests. Furthermore, current research has largely been done on a global, aggregate scale. Althought this is helpful for so many ways, it is not particularly helpful for land managers to use for decision-making. Through this project, the capstone team will use spatial analysis to map and assess the validity of the two hypotheses, both among distinct species and within each species range. We created two types of maps: one to display tree sensitivity to water availability and the other to predict future tree growth, given predicted changes in water availability. We developed a shiny app that combines this information on an easily accessible and user-friendly platform. These deliverables will help public and private stakeholders identify species and regions of highest risk so that they can develop the most effective conservation and management strategies. 
 
 
 ## Project Objective :seedling:
-The objective of this project is to generate accurate vulnerability risk maps for dominant tree species that capture exposure and sensitivity to illustrate adaptive and spatial variation in response to climate change and predict future tree growth. 
+The objective of this project is to generate species-level sensitivity and vulnerability maps for most sampled (ITRDB) and threatened tree species that capture exposure and sensitivity to illustrate adaptive and spatial variation in response to climate change and predict future tree growth. 
 
 We aim to
-* Create more accurate risk maps for over 126 vulnerable species of trees :earth_americas:
-* Predict future tree growth using machine learning :chart_with_upwards_trend:
+* Create accurate risk maps for vulnerable species of trees :earth_americas:
 * Develop a shiny app that summarizes our findings on an easily accessible and user-friendly platform :computer:
 
 ## Repository Structure
 ```
-Climatree
-|
-├── climatree-mapping-repo
-│   ├── 3b. Species niche.R
-│   ├── 4a. First stage.R
-│   ├── 5a. Second stage.R
-│   ├── 6. Prediction.R
-│   └── 7. Figure 2.R
-├── climatree-shiny-dev
-    └── fm-prelim-maps
-        └── site_summary.csv
+├── climatree-mapping-repo.Rproj
+├── fm_scratch
+│   └── fm_scratch
+│       ├── run_with_NEW_data_3b_4a.R
+│       ├── run_with_NEW_data_5a_6_7.R
+│       ├── run_with_OLD_data_3b_4a.R
+│       ├── run_with_OLD_data_5a_6_7.R
+│       └── subset_species_no_for_loop_test.R
+├── prep_scripts
+│   ├── 2-spp-list.R
+│   └── create_top_species.R
+├── README.md
+├── scripts_1_2
+│   ├── 1_climate_niche.R
+│   └── 2_plot_level_regression.R
+└── scripts_3_4_5
+    ├── 3_run_regressions.R
+    ├── 4_sens_predictions.R
+    ├── 5_mapping.R
+    └── main.R
 ```
 
 
