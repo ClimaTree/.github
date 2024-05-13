@@ -5,7 +5,8 @@ Faculty Advisor and Client: [Dr. Joan Dudney](https://joandudney.com)
 
 The team consists of [Rosemary Juarez](https://github.com/rosemaryjuarez), [Briana Barajas](https://github.com/briana-barajas), [Fletcher McConnell](https://github.com/fletcher-m) and [Vanessa Salgado](https://github.com/Vanessa-Salgado). 
 
-Primary Contributor / Client: Dr. Joan Dudney, 
+Primary Contributor / Client: Dr. Joan Dudney 
+
 Other Contributors: Dr. Robert Heilmeyer, Dr. Frances C. Moore
 
 ## Project Summary :evergreen_tree:
