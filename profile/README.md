@@ -21,7 +21,7 @@ Our initial goals:
 * Create accurate risk maps for vulnerable species of trees :earth_americas:
 * Develop a shiny app that summarizes our findings on an easily accessible and user-friendly platform :computer:
 
-## Repository Structure
+## Organization Structure
 ```
 ClimaTree
 ├── climatree_mapping_repository
