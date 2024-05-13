@@ -17,7 +17,7 @@ Forests cover approximately 30% of Earth’s land surface, absorb more carbon th
 The objective of this project is to generate species-level sensitivity and vulnerability maps for most sampled (ITRDB) and threatened tree species that capture exposure and sensitivity to illustrate adaptive and spatial variation in response to climate change and predict future tree growth. 
 
 We aim to
-* Design a new workflow from a global to species level analysist to analyze sensitivity and vulnerability of trees to decreased water availability. 
+* Design a new workflow from a global to species level analysist to analyze sensitivity and vulnerability of trees to decreased water availability  
 * Create accurate risk maps for vulnerable species of trees :earth_americas:
 * Develop a shiny app that summarizes our findings on an easily accessible and user-friendly platform :computer:
 
