@@ -27,6 +27,7 @@ Project Goals:
 ## Organization Structure
 
 **climatree-mapping-repo**
+
 contains project scripts to process and calculate sensitivity. For more information, visit our [repo's README.md.](https://github.com/ClimaTree/climatree-mapping-repo) 
 
 **Climatree-shiny-dev**
