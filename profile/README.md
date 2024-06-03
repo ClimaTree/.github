@@ -15,15 +15,24 @@ Forests cover approximately 30% of Earth’s land surface, absorb more carbon th
 
 
 ## Project Objective :seedling:
-The objective of this project is to generate species-level sensitivity maps for most sampled (ITRDB) and threatened tree species that capture exposure and sensitivity to illustrate spatial variation in response to climate change.
+The objective of this project is to generate species-level sensitivity maps for most sampled (ITRDB) and threatened tree species that capture exposure and sensitivity to illustrate spatial variation in response to climate change. This project utilized processed versions of these data sets, provided by the client Dr. Joan Dudney. The processed data is not yet available publicly, as it is being used in ongoing research. For more information on the processing of the initial data, please contact Dr. Joan Dudney.
  
 
-Our initial goals:
+Project Goals:
 * Design a new workflow from a global to species level analysist to analyze sensitivity of trees to decreased water availability 🗺️  
 * Create accurate risk maps for vulnerable species of trees :earth_americas:
-* Develop a shiny app that summarizes our findings on an easily accessible and user-friendly platform :computer:
+* Develop an interactive dashboard using R-Shiny app that summarizes our findings on an easily accessible and user-friendly platform :computer:
+
 
 ## Organization Structure
+
+climatree-mapping-repo:
+contains project scripts to process and calculate sensitivity. For more information, visit our [repo's README.md.](https://github.com/ClimaTree/climatree-mapping-repo) 
+
+Climatree-shiny-dev
+
+contains dashboard scripts needed to run our outputs: mapping sensitivity. For more information, visit our [repo's README.md.](https://github.com/ClimaTree/climatree-shiny-dev)
+
 ```
 your-organization/
 ├── climatree-mapping-repo
