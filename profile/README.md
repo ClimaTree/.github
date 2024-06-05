@@ -1,5 +1,6 @@
+# Mapping Tree Species Drought Sensitivity Under Climate Change
 ## Introduction :deciduous_tree:
-The ClimaTree project is a Masters in Environmental Data Science capstone project at the Bren School of Environmental Science & Management (UCSB)
+The ClimaTree project is a [Masters in Environmental Data Science capstone project](https://bren.ucsb.edu/projects?f%5B0%5D=project-program%3A63) at the Bren School of Environmental Science & Management (UCSB)
 
 Faculty Advisor and Client: [Dr. Joan Dudney](https://joandudney.com)
 
