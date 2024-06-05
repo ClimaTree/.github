@@ -1,17 +1,21 @@
 # Mapping Tree Species Drought Sensitivity Under Climate Change
 ## Introduction :deciduous_tree:
+Group Name: ClimaTree
+
 The ClimaTree project is a [Masters in Environmental Data Science capstone project](https://bren.ucsb.edu/projects?f%5B0%5D=project-program%3A63) at the Bren School of Environmental Science & Management (UCSB)
 
 Faculty Advisor and Client: [Dr. Joan Dudney](https://joandudney.com)
 
 The team consists of [Rosemary Juarez](https://github.com/rosemaryjuarez), [Briana Barajas](https://github.com/briana-barajas), [Fletcher McConnell](https://github.com/fletcher-m) and [Vanessa Salgado](https://github.com/Vanessa-Salgado). 
 
+A link to our dashboard: [ClimaTree Dashboard](https://shinyapps.bren.ucsb.edu/climatree/)
+
 Primary Contributor / Client: Dr. Joan Dudney 
 
 Other Contributors: Dr. Robert Heilmeyer, Dr. Frances C. Moore
 
 ## Project Summary :evergreen_tree:
-Forests cover approximately 30% of Earth’s land surface, absorb more carbon than all other terrestrial ecosystems, and provide trillions of dollars’ worth of ecosystem services. However, these crucial ecosystems are becoming increasingly vulnerable to a changing climate. Though many studies document higher drought sensitivity in drier regions, some studies suggest trees may be even more drought sensitive in wet regions. To reconcile these contradictory results, this capstone project conducted a species-level sensitivity analysis to test whether there is strong variation in tree vulnerability to climate change across species’ ranges. Specifically, the capstone team used spatial analysis to map and assess the sensitivity of the 26 most dominant tree species in the International Tree-Ring Databank. The species-specific maps displayed tree sensitivity to declines in water availability (using climatic water deficit). They developed a shiny app that combined this information on an easily accessible and user-friendly platform. These deliverables will help public and private stakeholders identify species and regions of highest risk so that they can develop the most effective conservation and management strategies.
+Forests cover approximately 30% of Earth’s land surface, absorb more carbon than all other terrestrial ecosystems, and provide trillions of dollars’ worth of ecosystem services. However, these crucial ecosystems are becoming increasingly vulnerable to a changing te. Though many studies document higher drought sensitivity in drier regions, some studies suggest trees may be even more drought sensitive in wet regions. To reconcile these contradictory results, this capstone project conducted a species-level sensitivity analysis to test whether there is strong variation in tree vulnerability to climate change across species’ ranges. Specifically, the capstone team used spatial analysis to map and assess the sensitivity of the 26 most dominant tree species in the International Tree-Ring Databank. The species-specific maps displayed tree sensitivity to declines in water availability (using climatic water deficit). They developed a shiny app that combined this information on an easily accessible and user-friendly platform. These deliverables will help public and private stakeholders identify species and regions of highest risk so that they can develop the most effective conservation and management strategies.
 
 
 
